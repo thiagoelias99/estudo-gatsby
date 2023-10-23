@@ -7,6 +7,9 @@
   Gatsby Minimal Starter
 </h1>
 
+## Deployed URL
+[Netlify Deploy](https://darling-sable-be6abe.netlify.app/)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
